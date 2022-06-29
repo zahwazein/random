@@ -1,1 +1,232 @@
-[{"service":"Instagram","endpoint":"/check/instagram/{username}"}]
+[
+    {
+        "endpoint": "/check/instagram/{username}",
+        "service": "Instagram",
+        "linkToGet": "https://api.instantusername.com/check/Instagram/{username}"
+    },
+    {
+        "endpoint": "/check/twitter/{username}",
+        "service": "Twitter",
+        "linkToGet": "https://api.instantusername.com/check/Twitter/{username}"
+    },
+    {
+        "endpoint": "/check/facebook/{username}",
+        "service": "Facebook",
+        "linkToGet": "https://api.instantusername.com/check/Facebook/{username}"
+    },
+    {
+        "endpoint": "/check/youtube/{username}",
+        "service": "YouTube",
+        "linkToGet": "https://api.instantusername.com/check/YouTube/{username}"
+    },
+    {
+        "endpoint": "/check/medium/{username}",
+        "service": "Medium",
+        "linkToGet": "https://api.instantusername.com/check/Medium/{username}"
+    },
+    {
+        "endpoint": "/check/reddit/{username}",
+        "service": "Reddit",
+        "linkToGet": "https://api.instantusername.com/check/Reddit/{username}"
+    },
+    {
+        "endpoint": "/check/github/{username}",
+        "service": "GitHub",
+        "linkToGet": "https://api.instantusername.com/check/GitHub/{username}"
+    },
+    {
+        "endpoint": "/check/quora/{username}",
+        "service": "Quora",
+        "linkToGet": "https://api.instantusername.com/check/Quora/{username}"
+    },
+    {
+        "endpoint": "/check/9gag/{username}",
+        "service": "9GAG",
+        "linkToGet": "https://api.instantusername.com/check/9GAG/{username}"
+    },
+    {
+        "endpoint": "/check/vk/{username}",
+        "service": "VK",
+        "linkToGet": "https://api.instantusername.com/check/VK/{username}"
+    },
+    {
+        "endpoint": "/check/blogger/{username}",
+        "service": "Blogger",
+        "linkToGet": "https://api.instantusername.com/check/Blogger/{username}"
+    },
+    {
+        "endpoint": "/check/about.me/{username}",
+        "service": "About.me",
+        "linkToGet": "https://api.instantusername.com/check/About.me/{username}"
+    },
+    {
+        "endpoint": "/check/canva/{username}",
+        "service": "Canva",
+        "linkToGet": "https://api.instantusername.com/check/Canva/{username}"
+    },
+    {
+        "endpoint": "/check/codecademy/{username}",
+        "service": "Codecademy",
+        "linkToGet": "https://api.instantusername.com/check/Codecademy/{username}"
+    },
+    {
+        "endpoint": "/check/codepen/{username}",
+        "service": "Codepen",
+        "linkToGet": "https://api.instantusername.com/check/Codepen/{username}"
+    },
+    {
+        "endpoint": "/check/crunchyroll/{username}",
+        "service": "Crunchyroll",
+        "linkToGet": "https://api.instantusername.com/check/Crunchyroll/{username}"
+    },
+    {
+        "endpoint": "/check/devcommunity/{username}",
+        "service": "DEV Community",
+        "linkToGet": "https://api.instantusername.com/check/DEV Community/{username}"
+    },
+    {
+        "endpoint": "/check/dailymotion/{username}",
+        "service": "DailyMotion",
+        "linkToGet": "https://api.instantusername.com/check/DailyMotion/{username}"
+    },
+    {
+        "endpoint": "/check/deviantart/{username}",
+        "service": "DeviantART",
+        "linkToGet": "https://api.instantusername.com/check/DeviantART/{username}"
+    },
+    {
+        "endpoint": "/check/disqus/{username}",
+        "service": "Disqus",
+        "linkToGet": "https://api.instantusername.com/check/Disqus/{username}"
+    },
+    {
+        "endpoint": "/check/dribbble/{username}",
+        "service": "Dribbble",
+        "linkToGet": "https://api.instantusername.com/check/Dribbble/{username}"
+    },
+    {
+        "endpoint": "/check/ebay/{username}",
+        "service": "Ebay",
+        "linkToGet": "https://api.instantusername.com/check/Ebay/{username}"
+    },
+    {
+        "endpoint": "/check/giphy/{username}",
+        "service": "Giphy",
+        "linkToGet": "https://api.instantusername.com/check/Giphy/{username}"
+    },
+    {
+        "endpoint": "/check/gitlab/{username}",
+        "service": "GitLab",
+        "linkToGet": "https://api.instantusername.com/check/GitLab/{username}"
+    },
+    {
+        "endpoint": "/check/gravatar/{username}",
+        "service": "Gravatar",
+        "linkToGet": "https://api.instantusername.com/check/Gravatar/{username}"
+    },
+    {
+        "endpoint": "/check/imgur/{username}",
+        "service": "Imgur",
+        "linkToGet": "https://api.instantusername.com/check/Imgur/{username}"
+    },
+    {
+        "endpoint": "/check/myanimelist/{username}",
+        "service": "MyAnimeList",
+        "linkToGet": "https://api.instantusername.com/check/MyAnimeList/{username}"
+    },
+    {
+        "endpoint": "/check/pastebin/{username}",
+        "service": "Pastebin",
+        "linkToGet": "https://api.instantusername.com/check/Pastebin/{username}"
+    },
+    {
+        "endpoint": "/check/pinterest/{username}",
+        "service": "Pinterest",
+        "linkToGet": "https://api.instantusername.com/check/Pinterest/{username}"
+    },
+    {
+        "endpoint": "/check/pixabay/{username}",
+        "service": "Pixabay",
+        "linkToGet": "https://api.instantusername.com/check/Pixabay/{username}"
+    },
+    {
+        "endpoint": "/check/repl.it/{username}",
+        "service": "Repl.it",
+        "linkToGet": "https://api.instantusername.com/check/Repl.it/{username}"
+    },
+    {
+        "endpoint": "/check/reverbnation/{username}",
+        "service": "ReverbNation",
+        "linkToGet": "https://api.instantusername.com/check/ReverbNation/{username}"
+    },
+    {
+        "endpoint": "/check/roblox/{username}",
+        "service": "Roblox",
+        "linkToGet": "https://api.instantusername.com/check/Roblox/{username}"
+    },
+    {
+        "endpoint": "/check/soundcloud/{username}",
+        "service": "SoundCloud",
+        "linkToGet": "https://api.instantusername.com/check/SoundCloud/{username}"
+    },
+    {
+        "endpoint": "/check/sourceforge/{username}",
+        "service": "SourceForge",
+        "linkToGet": "https://api.instantusername.com/check/SourceForge/{username}"
+    },
+    {
+        "endpoint": "/check/spotify/{username}",
+        "service": "Spotify",
+        "linkToGet": "https://api.instantusername.com/check/Spotify/{username}"
+    },
+    {
+        "endpoint": "/check/steam/{username}",
+        "service": "Steam",
+        "linkToGet": "https://api.instantusername.com/check/Steam/{username}"
+    },
+    {
+        "endpoint": "/check/steamgroup/{username}",
+        "service": "SteamGroup",
+        "linkToGet": "https://api.instantusername.com/check/SteamGroup/{username}"
+    },
+    {
+        "endpoint": "/check/telegram/{username}",
+        "service": "Telegram",
+        "linkToGet": "https://api.instantusername.com/check/Telegram/{username}"
+    },
+    {
+        "endpoint": "/check/tinder/{username}",
+        "service": "Tinder",
+        "linkToGet": "https://api.instantusername.com/check/Tinder/{username}"
+    },
+    {
+        "endpoint": "/check/twitch/{username}",
+        "service": "Twitch",
+        "linkToGet": "https://api.instantusername.com/check/Twitch/{username}"
+    },
+    {
+        "endpoint": "/check/vsco/{username}",
+        "service": "VSCO",
+        "linkToGet": "https://api.instantusername.com/check/VSCO/{username}"
+    },
+    {
+        "endpoint": "/check/fandom/{username}",
+        "service": "Fandom",
+        "linkToGet": "https://api.instantusername.com/check/Fandom/{username}"
+    },
+    {
+        "endpoint": "/check/wikipedia/{username}",
+        "service": "Wikipedia",
+        "linkToGet": "https://api.instantusername.com/check/Wikipedia/{username}"
+    },
+    {
+        "endpoint": "/check/wix/{username}",
+        "service": "Wix",
+        "linkToGet": "https://api.instantusername.com/check/Wix/{username}"
+    },
+    {
+        "endpoint": "/check/wordpress/{username}",
+        "service": "WordPress",
+        "linkToGet": "https://api.instantusername.com/check/WordPress/{username}"
+    }
+]
